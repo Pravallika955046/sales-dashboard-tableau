@@ -19,6 +19,6 @@ The goal is to demonstrate skills in **data cleaning, visualization, and storyte
 👉 [Click here to view on Tableau Public](https://public.tableau.com/app/profile/pravallika.pydi/viz/Sales_Dashboard_17557253023820/SuperstoreSalesPerformanceDashboard?publish=yes)
 
 ## 📂 Dataset
-- The cleaned dataset used in this project is included here:  
-  [superstore_cleaned.csv](./superstore_cleaned.csv)
+- [Download Cleaned Dataset (CSV)](https://raw.githubusercontent.com/Pravallika955046/sales-dashboard-tableau/refs/heads/main/Superstore_cleaned.csv)
+
 
